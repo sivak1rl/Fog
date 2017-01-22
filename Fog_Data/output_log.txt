@@ -1,0 +1,38 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Richard\Documents\Git\Fog\Fog_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.664255 ms
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "RigidBodyFPSController/arm_smooth/Cube", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "RigidBodyFPSController/arm_smooth (1)/Cube", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 0)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3c30 -> priority: 1 
